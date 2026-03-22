@@ -12,8 +12,7 @@ publishDate: '2021-10-01T00:00:00Z'
 publication_types: ['article-journal']
 publication: '*IEEE Transactions on Smart Grid, 13*(4), 2690-2702'
 publication_short: ''
-abstract: This paper develops a restoration strategy for active distribution systems considering
-  endogenous uncertainty in cold load pickup.
+abstract: Cold load pickup (CLPU) phenomenon is identified as the persistent power inrush upon a sudden load pickup after an outage. Under the active distribution system (ADS) paradigm, where distributed energy resources (DERs) are extensively installed, the decreased outage duration can induce a strong interdependence between CLPU pattern and load pickup decisions. In this paper, we propose a novel modelling technique to tractably capture the decision-dependent uncertainty (DDU) arising from such interdependence.
 summary: 'Google Scholar citations: 48 (retrieved March 2026).'
 featured: false
 hugoblox:

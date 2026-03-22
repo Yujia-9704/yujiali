@@ -21,7 +21,7 @@
   {{ if eq (site.Params.hugoblox.content.citations.style | default "apa") "apa" }}
 
   <span class="article-metadata li-cite-author">
-    {{ partial "page_metadata_authors" $item }}
+    {{ range $index, $author := $item.Params.authors }}{{ if $index }}, {{ end }}{{ $author }}{{ end }}
   </span>
   ({{- $year -}}).
   <a href="{{ $item.RelPermalink }}" class="underline">{{ $item.Title }}</a>.
@@ -40,7 +40,7 @@
   {{ else }}
 
   <span class="article-metadata li-cite-author">
-    {{ partial "page_metadata_authors" $item }}.
+    {{ range $index, $author := $item.Params.authors }}{{ if $index }}, {{ end }}{{ $author }}{{ end }}.
   </span>
   <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>.
   {{ if $item.Params.publication_short }}
