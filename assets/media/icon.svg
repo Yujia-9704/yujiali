@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- 背景圆 -->
+  <circle cx="256" cy="256" r="240" fill="#2D3748"/>
+  
+  <!-- 闪电符号 -->
+  <path d="M 280 120 L 200 240 L 260 240 L 220 392 L 320 260 L 260 260 L 300 120 Z" 
+        fill="#FDFCFA" 
+        stroke="#FDFCFA" 
+        stroke-width="8"
+        stroke-linejoin="round"/>
+  
+  <!-- 外圈装饰 -->
+  <circle cx="256" cy="256" r="240" fill="none" stroke="#4A5568" stroke-width="16"/>
+</svg>
