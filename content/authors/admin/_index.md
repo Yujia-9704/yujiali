@@ -23,8 +23,8 @@ social:
     link: https://scholar.google.com/citations?user=RwIBYd4AAAAJ&hl=zh-CN
 ---
 
-I am currently a Postdoctoral Researcher at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) in the Grid Integration Group. I am advised by [Dr. Miguel Heleno](https://profiles.lbl.gov/22704-miguel-heleno).
+I am currently a Postdoctoral Researcher at <span class="underlined-entity">Lawrence Berkeley National Laboratory</span> in the Grid Integration Group, advised by <span class="underlined-entity">Dr. Miguel Heleno</span>. I received my PhD in Electrical Engineering from <span class="underlined-entity">The University of Hong Kong</span>, advised by <span class="underlined-entity">Prof. Yunhe Hou</span>.
 
-My research focuses on resilient and sustainable power systems under uncertainty, including uncertainty quantification and optimization for renewable integration, transportation electrification and EV charging infrastructure, and integrated transmission-distribution planning.
+My research focuses on power system resilience under extreme events, uncertainty quantification and optimization for renewable integration, transportation electrification and EV charging infrastructure, and integrated transmission-distribution system planning.
 
 Outside of work, I enjoy music, dancing, and reading.

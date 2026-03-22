@@ -3,8 +3,8 @@ title: 'Stochastic Restoration Strategy Considering Decision-dependent Cold Load
 date: '2021-10-24T00:00:00Z'
 event_name: INFORMS Annual Meeting
 location: Online
-summary: "Invited talk presenting research methods and findings related to resilient power system planning under uncertainty."
-abstract: "Invited talk presenting research methods and findings related to resilient power system planning under uncertainty."
+summary: "Introduced a stochastic restoration model accounting for decision-dependent cold-load pickup dynamics during service recovery."
+abstract: "The talk presented stochastic optimization techniques for restoration decisions with endogenous demand rebound effects and discussed computational performance on benchmark feeders."
 event_start: '2021-10-24T00:00:00Z'
 event_end: '2021-10-24T01:00:00Z'
 event_all_day: false

@@ -1,0 +1,94 @@
+/* 统一背景色 - 暖白色系 */
+:root {
+  --bg-warm: #FDFCFA;
+  --bg-card: #FDFCFA;
+  --text-primary: #2D3748;
+  --text-secondary: #4A5568;
+  --border-subtle: #E8E6E1;
+}
+
+/* 基础背景 */
+html, 
+body,
+.page-wrapper,
+#top {
+  background-color: var(--bg-warm) !important;
+  color: var(--text-primary);
+}
+
+/* 所有 section 统一背景 */
+.hbb-section,
+.home-section-bg,
+.resume-biography,
+.blox-collection {
+  background-color: var(--bg-warm) !important;
+}
+
+/* 卡片扁平化设计 - 无边框 */
+.bg-white,
+.bg-white\/90,
+[class*="from-white"],
+.pub-list-item,
+.talk-card,
+.news-item {
+  background-color: var(--bg-card) !important;
+  border: none;
+  border-radius: 0;
+}
+
+/* 教育/经历卡片 - 扁平化 */
+.group.bg-gradient-to-br {
+  background: var(--bg-card) !important;
+  border: none;
+}
+
+/* 移除暗色模式的背景覆盖 */
+.dark .bg-gray-800,
+.dark .bg-zinc-800,
+.dark .bg-zinc-900,
+.dark [class*="dark:bg-"] {
+  background-color: var(--bg-warm) !important;
+}
+
+/* 链接样式 */
+a {
+  color: #2563EB;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* 下划线实体（非链接） */
+.underlined-entity {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+  color: inherit;
+}
+
+/* 教育日期换行修复 */
+.text-gray-500 br,
+.dark\:text-gray-400 br {
+  display: none;
+}
+
+/* 导航栏统一背景 */
+.navbar,
+.header {
+  background-color: var(--bg-warm) !important;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+/* 页脚统一背景 */
+footer,
+.footer {
+  background-color: var(--bg-warm) !important;
+}
+
+/* 移除渐变网格动画背景 */
+.absolute.inset-0.-z-10,
+.bg-gradient-to-br.from-primary-500\/20 {
+  display: none !important;
+}

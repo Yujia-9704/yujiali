@@ -3,8 +3,8 @@ title: 'Assessing Robustness of Risk-Constrained Operating Strategies for Power 
 date: '2019-09-30T00:00:00Z'
 event_name: IEEE Innovative Smart Grid Technologies - Europe
 location: Bucharest, Romania
-summary: "Invited talk presenting research methods and findings related to resilient power system planning under uncertainty."
-abstract: "Invited talk presenting research methods and findings related to resilient power system planning under uncertainty."
+summary: "Presented robustness assessment methods for risk-constrained renewable-rich system operations using contamination-based uncertainty analysis."
+abstract: "The talk analyzed how contamination techniques evaluate operating-strategy robustness under renewable uncertainty and highlighted implications for risk-aware dispatch policies."
 event_start: '2019-09-30T00:00:00Z'
 event_end: '2019-09-30T01:00:00Z'
 event_all_day: false

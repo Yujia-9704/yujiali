@@ -1,5 +1,6 @@
 ---
-title: 'Voltage Regulation in PV-Rich Distribution Networks: An Edge Pipelined Intelligent Computing Approach'
+title: 'Voltage Regulation in PV-Rich Distribution Networks: An Edge Pipelined Intelligent
+  Computing Approach'
 authors:
   - Chang Li
   - Jiayan Liu
@@ -9,11 +10,15 @@ authors:
 date: '2025-11-01T00:00:00Z'
 publishDate: '2025-11-01T00:00:00Z'
 publication_types: ['article-journal']
-publication: "*Communications Engineering, 4*(1)"
+publication: '*Communications Engineering, 4*(1)'
 publication_short: ''
-abstract: "This paper studies voltage regulation in PV-rich distribution networks using an edge-pipelined intelligent computing approach."
-summary: "Google Scholar citations: 0 (retrieved March 2026)."
+abstract: This paper studies voltage regulation in PV-rich distribution networks using an edge-pipelined
+  intelligent computing approach.
+summary: 'Google Scholar citations: 0 (retrieved March 2026).'
 featured: false
+hugoblox:
+  ids:
+    doi: 10.1038/s44172-025-00535-x
 projects: []
 slides: ''
 ---

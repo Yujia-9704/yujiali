@@ -1,5 +1,6 @@
 ---
-title: 'Netload Range Cost Curves for a Transmission-Aware Distribution System Planning under DER Growth Uncertainty'
+title: Netload Range Cost Curves for a Transmission-Aware Distribution System Planning under
+  DER Growth Uncertainty
 authors:
   - Yujia Li
   - Samuel Cordova
@@ -8,11 +9,15 @@ authors:
 date: '2025-01-01T00:00:00Z'
 publishDate: '2025-01-01T00:00:00Z'
 publication_types: ['article-journal']
-publication: "*IEEE Transactions on Energy Markets, Policy and Regulation*"
+publication: '*IEEE Transactions on Energy Markets, Policy and Regulation*'
 publication_short: ''
-abstract: "This paper proposes netload range cost curves for transmission-aware distribution planning under DER growth uncertainty."
-summary: "Google Scholar citations: 0 (retrieved March 2026)."
+abstract: This paper proposes netload range cost curves for transmission-aware distribution
+  planning under DER growth uncertainty.
+summary: 'Google Scholar citations: 0 (retrieved March 2026).'
 featured: false
+hugoblox:
+  ids:
+    doi: 10.1109/TEMPR.2025.3638837
 projects: []
 slides: ''
 ---

@@ -6,7 +6,7 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: ''
 # Website URL
-baseURL: 'https://owner.github.io/yujiali-website-hugo/'
+baseURL: 'https://hako199704.github.io/yujiali/'
 
 ############################
 ## LANGUAGE

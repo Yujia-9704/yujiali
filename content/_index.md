@@ -16,11 +16,11 @@ sections:
       username: admin
       text: ''
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: /CV_Yujia_Li.pdf
+      # button:
+      #   text: Download CV
+      #   url: /CV_Yujia_Li.pdf
       headings:
-        about: ''
+        about: 'About Me'
         education: ''
         interests: ''
     design:

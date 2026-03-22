@@ -14,7 +14,7 @@ status:
   icon: ""
 role: Postdoctoral Researcher
 bio: |
-  I am currently a Postdoctoral Researcher at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) in the Grid Integration Group, advised by [Dr. Miguel Heleno](https://profiles.lbl.gov/22704-miguel-heleno). My research focuses on resilient and sustainable power systems under exogenous and endogenous uncertainty, with emphasis on uncertainty quantification and optimization for renewable integration, transportation electrification and EV charging infrastructure, and integrated transmission-distribution planning.
+  I am currently a Postdoctoral Researcher at <span class="underlined-entity">Lawrence Berkeley National Laboratory</span> in the Grid Integration Group, advised by <span class="underlined-entity">Dr. Miguel Heleno</span>. I received my PhD in Electrical Engineering from <span class="underlined-entity">The University of Hong Kong</span>, advised by <span class="underlined-entity">Prof. Yunhe Hou</span>. My research focuses on power system resilience under extreme events, uncertainty quantification and optimization for renewable integration, transportation electrification and EV charging infrastructure, and integrated transmission-distribution system planning.
 
   Outside of work, I enjoy music, dancing, and reading.
 
@@ -28,18 +28,25 @@ links:
     label: Email
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=RwIBYd4AAAAJ&hl=zh-CN
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/yujia-li-aa3284319/
 
-interests: []
+interests:
+  - Power system resilience under extreme events
+  - Uncertainty quantification and optimization
+  - Renewable integration
+  - Transportation electrification and EV charging infrastructure
+  - Integrated transmission-distribution system planning
 
 education:
   - degree: PhD in Electrical Engineering
     institution: The University of Hong Kong
-    start: 2018-09-01
-    end: 2022-08-31
+    start: Sep 2018 – 
+    end: " Aug 2022"
   - degree: BSc in Electrical Engineering
     institution: Huazhong University of Science and Technology
-    start: 2014-09-01
-    end: 2018-06-30
+    start: Sep 2014 – 
+    end: " Jun 2018"
 
 experience:
   - role: Postdoctoral Researcher
